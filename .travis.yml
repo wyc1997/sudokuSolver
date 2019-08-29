@@ -4,6 +4,5 @@ python:
 install:
 
 script:
-- python3 sudoku1.py
 - python3 sudoku2.py
 - python3 sudoku3.py
